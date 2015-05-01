@@ -1,7 +1,7 @@
 {
   "name": "bitcoin",
   "version": "1.0.0",
-  "description": "",
+  "description": "a",
   "main": "index.js",
   "dependencies": {
     "express": "^4.12.3"
@@ -10,6 +10,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "BSD"
+  "author": "a",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kimoto2211/bitcoin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kimoto2211/bitcoin/issues"
+  },
+  "homepage": "https://github.com/kimoto2211/bitcoin"
 }
